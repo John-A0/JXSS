@@ -19,9 +19,9 @@ JXSS is a Python-based tool designed to detect and exploit Cross-Site Scripting 
 ## 🛠️ Installation  
 
 1. **Clone the Repository**:  
-   ```bash
-   git clone https://github.com/yourusername/JXSS.git
-   cd JXSS
+```bash
+git clone https://github.com/yourusername/JXSS.git
+cd JXSS
    ```
 2. **Install Requirements**:
 JXSS uses Python 3.x. Install dependencies using:
